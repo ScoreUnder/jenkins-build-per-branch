@@ -1,3 +1,3 @@
-[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
+Please use the more recent fork: https://github.com/scivisum/jenkins-build-per-branch
 
-See the [documentation page](http://entagen.github.com/jenkins-build-per-branch/) for project details and usage.
+I strongly recommend against using this for new projects. Use only if you have already bought into it. Jenkins has pipeline jobs that serve the same purpose much more cleanly.
